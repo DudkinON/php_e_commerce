@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d3027e6-9d38-4a84-a385-48dcd3efa6db" name="ovh.com" url="http://elleada.pw">
+        <fileTransfer host="elleada.pw" port="22" rootFolder="/var/www/elleada.pw/" accessType="SFTP" password="dfdfdfcbdf93dfeedfcfdfc6df93dfe8" username="root">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
